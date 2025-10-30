@@ -32,3 +32,7 @@ figures/
 
 # uv specific
 .uv/
+
+# Data files
+*.soft.gz
+*.fasta
