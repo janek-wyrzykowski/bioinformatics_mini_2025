@@ -36,3 +36,6 @@ figures/
 # Data files
 *.soft.gz
 *.fasta
+
+# lecture generating scripts
+lectures/
