@@ -33,5 +33,9 @@ figures/
 # uv specific
 .uv/
 
+# Data files
+*.soft.gz
+*.fasta
+
 # lecture generating scripts
 lectures/
